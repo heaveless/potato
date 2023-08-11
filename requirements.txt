@@ -1,0 +1,9 @@
+fastapi==0.95.1
+fastapi-utils==0.2.1
+pydantic==1.10.7
+python-dotenv==1.0.0
+starlette==0.26.1
+uvicorn==0.22.0
+requests==2.31.0
+pycryptodome==3.18.0
+tenacity==8.2.2
